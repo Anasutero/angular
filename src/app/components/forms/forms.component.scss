@@ -99,6 +99,9 @@
     gap: 12px;
 }
 
+.form-group .checkbox-wrapper input[type="checkbox"]{
+    margin-right:4px ;
+}
 
 @media (min-width: 768px){
     .form-group .btn-wrapper{
